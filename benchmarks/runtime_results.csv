@@ -1,0 +1,11 @@
+framework,operation,file_size_mb,execution_time_seconds
+pandas,load_csv,156.2,18.45
+fireducks,load_csv,156.2,3.21
+pandas,load_parquet,45.7,6.83
+fireducks,load_parquet,45.7,1.24
+pandas,filter,156.2,1.45
+fireducks,filter,156.2,0.32
+pandas,aggregate,156.2,2.91
+fireducks,aggregate,156.2,0.59
+pandas,join,156.2,5.28
+fireducks,join,156.2,1.14
